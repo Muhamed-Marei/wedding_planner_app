@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "943196194860",
+    "project_id": "wedding-organizer-1",
+    "storage_bucket": "wedding-organizer-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943196194860:android:0d9bc09b5c75f2a6222989",
+        "android_client_info": {
+          "package_name": "com.example.wedding_planner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943196194860-i05pqmqh7uctcbnel45io33r29oef2mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPOkkwVeesuGDteG-0o-066r3Feyeg0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943196194860-i05pqmqh7uctcbnel45io33r29oef2mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943196194860-1o7bj8beua66611i5fi6jtk47lbm9onq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weddingAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
